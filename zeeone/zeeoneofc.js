@@ -33,7 +33,7 @@ ${petik}│◦➛ Owner : ${ownername}
 │◦➛Version : 3.5.2${petik}
 ${petik}│◦➛Speed :${petik} ${latensiii} 
 ${petik}└❏ ${tekss}${petik}
-
+*Di persembahkan oleh Radhin Al haady & Alya putri zayyan*
 
 ┌❑ *LIST MENU* ❑
 │
