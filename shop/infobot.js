@@ -1,5 +1,5 @@
 const infobot = (status, offline, latensii, totalchat, giid, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, ownerNumberrr,runtime, kyun) => {
-return `ℒ⃝👾 *B O T  S T A T I S T I C*
+return ` *B O T  S T A T I S T I C*
 
 👨‍💻 Owner : @${ownerNumberrr.split('@')[0]}
 ☪️ Lib  : Baileys
@@ -27,13 +27,13 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
 ⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
-♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+♈ YouTube : Radhin Al haady
+♉ Github : https://github.com/radhin123
+♊ Instagram : radhin mods
+♋ Tiktok : none
+♌ Telegram : https://t.me/Radhin_mods
+♎ Ch Telegram : none
+♏ WhatsApp : https://wa.me/6282280134758
 `}
 
 exports.infobot = infobot
