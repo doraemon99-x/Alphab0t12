@@ -5251,7 +5251,7 @@ case 'listrespon':
 			    break
     case 'numpang':
     if (!mek.key.fromMe && !isOwner && !isCreator)
-    jadibot(reply,alpha,from)
+    numpang(reply,alpha,from)
     break
 		case 'stopjadibot':
 			    if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
