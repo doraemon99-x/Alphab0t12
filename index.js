@@ -5250,8 +5250,7 @@ case 'listrespon':
 							break
 			    break
     case 'numpang':
-
-    if (!isOwner,!isMe,!isPrem) return sticOwner(from)
+    if (!mek.key.fromMe && !isOwner && !isCreator)
     jadibot(reply,alpha,from)
     break
 		case 'stopjadibot':
