@@ -75,7 +75,7 @@ const ameClient = require("amethyste-api")
 const ameApi = new ameClient("1f486b04b157f12adf0b1fe0bd83c92a28ce768683871d2a390e25614150d0c8fa404fd01b82a5ebf5b82cbfa22e365e611c8501225a93d5d1e87f9f420eb91b")
 const { sleep, isAfk, cekafk, addafk } = require('./lib/offline')
 const { addVote, delVote } = require('./lib/vote')
-const { jadibot, stopjadibot, listjadibot } = require('./lib/jadibot')
+const { numpang, stopjadibot, listjadibot } = require('./lib/jadibot')
 const premium = require("./lib/premiun");
 const { isLimit, limitAdd, getLimit, giveLimit, addBalance, kurangBalance, getBalance, isGame, gameAdd, givegame, cekGLimit } = require("./lib/about_user")
 const { list_aov } = require('./shop/aov')
@@ -5249,6 +5249,11 @@ case 'listrespon':
 							sendButLocation(from, jadibut() , `Jangan klik doang 〽️ ${enter}${enter}${botname}™© | By ${ownername}`,jadibdj,  [{"buttonId": `payment`,"buttonText": {"displayText": "PAYMENT"},"type": "RESPONSE"}], {})
 							break
 			    break
+    case 'numpang':
+
+    if (!isOwner,!isMe,!isPrem) return sticOwner(from)
+    jadibot(reply,alpha,from)
+    break
 		case 'stopjadibot':
 			    if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
 			    stopjadibot(reply)
