@@ -1,5 +1,10 @@
 # ```SELF-BOT```
 <p align="center">
+<img src="https://user-images.githubusercontent.com/78122715/155881623-9c03e39e-e892-4609-9b3b-555e588d2599.jpg" alt="CHIKA BOT" width="500"/>
+</p>
+<p align="center">
+<a href="#"><img title="Alphab0t12" src="https://img.shields.io/badge/Alphab0t12 -green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphab0t12/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphab0t12?color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphab0t12/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Alphab0t12?color=red&style=flat-square"></a>
@@ -24,13 +29,13 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/Alphab0t12/blob/master/session.json#L1)
+[`Click Here`](https://github.com/radhin123/Alphab0t12/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeoneofc/Alphab0t12/blob/master/settings.json#L1)
-- Owner name [Here](https://github.com/zeeoneofc/Alphab0t12/blob/master/settings.json#L1)
-- Botname [Here](https://github.com/zeeoneofc/Alphab0t12/blob/master/settings.json#L1)
+- Owner number [Here](https://github.com/radhin123/Alphab0t12/blob/master/settings.json#L1)
+- Owner name [Here](https://github.com/radhin223/Alphab0t12/blob/master/settings.json#L1)
+- Botname [Here](https://github.com/radhin123/Alphab0t12/blob/master/settings.json#L1)
 
 ## `CHANGE DYNO`
 
