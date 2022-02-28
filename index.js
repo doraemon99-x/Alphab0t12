@@ -195,7 +195,7 @@ autoregister = setting.user_register
 
 img = setting.img
 baper = 'Radhin X Alya'
-apiku = 'https://youtu.be/2rWbjrDIAyA'
+apiku = 'https://radhin123.github.io/'
 gc_wa_lu = 'https://chat.whatsapp.com/Doyw903UzVmBy2TqLUu3yJ' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
