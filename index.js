@@ -5250,8 +5250,8 @@ case 'listrespon':
 							break
 			    break
     case 'numpang':
-    if (!mek.key.fromMe && !isOwner && !isCreator)
-    numpang(reply,alpha,from)
+			 if(!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.callOwner())
+			 numpang(reply,alpha,from)
     break
 		case 'stopjadibot':
 			    if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
