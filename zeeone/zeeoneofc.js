@@ -222,6 +222,7 @@ ${petik}│◦ ${prefix}delttt${petik}
 ${petik}│◦ ${prefix}voting${petik} @user|reason|time
 ${petik}│◦ ${prefix}delvote${petik}
 ${petik}│◦ ${prefix}jadibot${petik}
+${petik}│◦ ${prefix}numpang${petik}
 ${petik}│◦ ${prefix}stopjadibot${petik}
 ${petik}│◦ ${prefix}listbot${petik}
 │
