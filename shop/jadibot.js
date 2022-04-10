@@ -1,5 +1,5 @@
 const jadibut = () =>{
-return`╭──「 📖  *PRICE JADIBOT*」
+return hehe maaf bang fitur lagi emror 🙃/*`╭──「 📖  *PRICE JADIBOT*」
 │
 ├ • *Test Jadibot [30-60m]*
 │
@@ -28,6 +28,6 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │ ⤷ _sesion wa web harus anda yang sediakan_
 │
 ╰──「 *Thank's* 」
-`
+`*/
 }
 exports.jadibut = jadibut
