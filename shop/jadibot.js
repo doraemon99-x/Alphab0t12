@@ -1,33 +1,7 @@
 const jadibut = () =>{
-return hehe maaf bang fitur lagi emror 🙃/*`╭──「 📖  *PRICE JADIBOT*」
-│
-├ • *Test Jadibot [30-60m]*
-│
-│ ⤷ *Free* 💌
-│
-├ • *Permanen*
-│
-│ ⤷ *Harga :  25k [Ling aja]*
-│ ⤷ *Harga :  28k [Pulsa]*
-│
-├─ 「 *PAYMENT* 」
-│
-│ ⤷ *Dana [Diutamakan]*
-│ ⤷ *Ovo*
-│ ⤷ *Gopay*
-│ ⤷ *Pulsa Telkom*
-│
-├─ 「 *RUN ON* 」
-│
-│ ⤷ *Heroku [Diutamakan]*
-│ ⤷ *Railway* 
-│
-├─ 「 *NOTES* 」
-│
-│ ⤷ _Tidak perlu termux_
-│ ⤷ _sesion wa web harus anda yang sediakan_
-│
+return `╭──「 📖  *PRICE JADIBOT*」
+├ ⤷ hehe maaf bang fitur lagi emror 🙃
 ╰──「 *Thank's* 」
-`*/
+`
 }
 exports.jadibut = jadibut
